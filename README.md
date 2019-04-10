@@ -22,7 +22,7 @@ The codes in the folder \supprt_codes were acquired online and handle the krigin
 _______________________________________________________________________________________________________________________________________
 CONTAMINANT TRANSPORT -- Analytical solution for transport along a single fracture
 
-The directory \Transport_Along_Fracture_Analytical_Solution contains MATLAB codes for the final project in a contaminnat transport course
+The directory \Transport_Along_Fracture_Analytical_Solution contains VBA codes for the final project in a contaminant transport course.
 
 This project involved simulating contaminant transport along a single fracture using analytical solutions derived in the work of: 
 Tang, D. H., Frind, E. O., and Sudicky, E. A. ( 1981), Contaminant transport in fractured porous media: Analytical solution for a single fracture, Water Resour. Res., 17( 3), 555– 564, doi:10.1029/WR017i003p00555.
