@@ -11,6 +11,8 @@ This project involved a comparison between Kriging (gaussian process regression)
 
 A 3 channel (red, geen and blue intensities) image of a hamburger is sampled a small number of times. theses sampling points are used with both esitmation methods. 
 
+The project report is included as a .pdf file (project_report_Banks_GEOL791_Geostatistics.pdf)
+
 The script 'KNN_predictions' can be run to see some example results for predictions using k-nearest neighbors algorithim. 
 
 The script 'Kriging_predictions' can be run to see some example results for predictions using a universal kriging algorithim.
